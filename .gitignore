@@ -13,7 +13,10 @@
 /Assets/AssetStoreTools*
 /Assets/Standard Assets/*
 /Assets/Horror FPS KIT
-
+/Assets/_Assets/*
+/Assets/QA_Office/*
+/Assets/The Wasteland Package/*
+/Assets/_Scenes/Sub-Level1/LightingData.asset
 
 
 
